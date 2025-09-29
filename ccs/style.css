@@ -45,3 +45,20 @@ table {
 tbody {
     height: 150px;
 }
+
+.lorem-foto{
+    height: 200px;
+    width: 250px;
+    object-fit: cover;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 800;
+}
+.bg-monitor{
+    background-image: url(../img/monitor.jpg);
+
+}
+.bg-graph{
+    background-image: url(../img/graph.jpg);
+
+}
