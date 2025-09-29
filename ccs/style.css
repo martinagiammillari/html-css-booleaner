@@ -1,0 +1,22 @@
+header {
+    background-image: url(../img/pattern.png);
+    height: 180px;
+    background-color: rgb(77, 127, 203);
+}
+#logo{
+    height: 80px;
+}
+.colore-grigio{
+    color: rgb(88, 88, 88);
+}
+.colore-azzurro{
+    color: rgb(121, 159, 226);
+}
+h1{
+    height: 65px;
+    font-weight: 1000;
+    font-size: 40px;
+}
+.didascalia{
+    font-size: 12px;
+}
