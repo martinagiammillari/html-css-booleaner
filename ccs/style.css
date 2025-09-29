@@ -3,20 +3,45 @@ header {
     height: 180px;
     background-color: rgb(77, 127, 203);
 }
-#logo{
+
+#logo {
     height: 80px;
 }
-.colore-grigio{
+
+.colore-grigio {
     color: rgb(88, 88, 88);
+    font-weight: 1000;
 }
-.colore-azzurro{
+
+.colore-azzurro {
     color: rgb(121, 159, 226);
+    font-weight: 1000;
 }
-h1{
+
+h1 {
     height: 65px;
     font-weight: 1000;
     font-size: 40px;
 }
-.didascalia{
+
+.didascalia {
     font-size: 12px;
+}
+
+thead {
+    color: rgb(255, 255, 255);
+    background-color: rgb(97, 129, 204);
+    text-align: left;
+}
+
+.highlight {
+    background-color: rgb(16, 125, 164);
+}
+
+table {
+    width: 100%;
+}
+
+tbody {
+    height: 150px;
 }
