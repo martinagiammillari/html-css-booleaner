@@ -46,7 +46,7 @@ tbody {
     height: 150px;
 }
 
-.lorem-foto{
+.lorem-foto {
     height: 200px;
     width: 250px;
     object-fit: cover;
@@ -54,11 +54,13 @@ tbody {
     font-size: 20px;
     font-weight: 800;
 }
-.bg-monitor{
+
+.bg-monitor {
     background-image: url(../img/monitor.jpg);
 
 }
-.bg-graph{
+
+.bg-graph {
     background-image: url(../img/graph.jpg);
 
 }
